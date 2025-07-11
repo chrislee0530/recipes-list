@@ -1,1 +1,2 @@
 # recipes-list
+A very simple webpage project using HTML/CSS to store different recipes using absolute and relative links. A user can click the link on the domain page to navigate through different recipes.
